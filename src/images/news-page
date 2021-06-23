@@ -1,0 +1,7 @@
+<div class="container is-max-desktop">
+    <p class='subtitle is-4' style={{textAlign:'center', marginTop:'7%'}}>Based in the heart of the Royal Borough of  Kensington & Chelsea.</p>
+    <p class='bd-notification is-info' style={{ textAlign: 'center', paddingBottom: '30px', marginBottom: '-17.25rem', marginTop: '1.75rem'}}>We been trading as managing agents from our offices in South Kensington since 1988.
+    <br/>
+    <br/>
+    We are unique insofar as we have an in-house solicitor and FRICS surveyor heading the respective departments enabling us to provide the full range of professional services to our clients which are essential in today’s litigious environment.</p>
+</div>

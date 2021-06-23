@@ -1,0 +1,39 @@
+<div class="container is-max-desktop">
+    <p class=' bd-notification is-info' style={{ textAlign: 'center', paddingBottom: '30px', color: '#7B0100', fontSize: '30px', marginBottom: '-11.25rem'}}>We help a wide variety of clients ranging from investment companies to owner-occupiers across a spectrum of buildings, from large blocks of flats to converted terraced properties. Our service is highly personal to both our landlord, clients and their tenants.</p>
+</div>
+
+<div class="tile is-ancestor" style={{padding: '300px'}}>
+    {homeCard}
+</div>
+
+<div class="tile is-ancestor" style={{padding: '300px', marginTop: '-600px'}}>
+<div class="tile is-parent">
+  <article class="tile is-child">
+    <figure class="image is-3by3">
+      <img  src="https://images.squarespace-cdn.com/content/v1/5a612624d0e628c1650d5783/1516660440999-BA33BHP4PWHIQZ60X866/ke17ZwdGBToddI8pDm48kFmfxoboNKufWj-55Bgmc-J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iXS6XmVv7bUJ418E8Yoc1hjuviiiZmrL38w1ymUdqq4JaGeFUxjM-HeS7Oc-SSFcg/helloquence-51716.jpg?format=1000w" style={{width: '324px', height: '224px'}}/>
+    </figure>
+    <p class="title is-4" style={{textAlign: 'center', padding:'35px'}}>Investment Sourcing</p>
+    <p class="subtitle is-6" style={{textAlign: 'center'}}>We work with an emergency Out-of-hours response team that provides a 24 hour service for all emergencies.</p>
+  </article>
+</div>
+<div class="tile is-parent">
+<article class="tile is-child">
+  <figure class="image is-3by3">
+    <img src="https://images.squarespace-cdn.com/content/v1/5a612624d0e628c1650d5783/1516662184212-09L2PXSKRFZDB9KUT4SB/ke17ZwdGBToddI8pDm48kF7FidDmmxBtHrjCXBAl2Q0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcBe5NN1aztgJ-G2UI47eBDNwIwco64xsxT9aJzuFgW82ocSmq3L61CtbyRU-TPLEu/Chelsea_Residential_Management_survey.jpg?format=1000w"
+    style={{width: '324px', height: '224px'}}/>
+  </figure>
+  <p class="title is-4" style={{textAlign: 'center', padding:'35px'}}>Legal</p>
+  <p class="subtitle is-6" style={{textAlign: 'center'}}>'We are unique in that we have an in-house legal department run by a practicing solicitor with specialist knowledge of property law.</p>
+</article>
+</div>
+<div class="tile is-parent">
+<article class="tile is-child">
+  <figure class="image is-3by3">
+    <img src="https://images.squarespace-cdn.com/content/v1/5a612624d0e628c1650d5783/1516661091118-SG1DQ18TVKWJZ3QVT45H/ke17ZwdGBToddI8pDm48kJ_uMEMeaRqOJyKJV2Heocd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mhydAgiKdIfeAoxVgE7c7qtxVrtxT4BtbvOyBNHHJizrDLDZficLnobvJAznWrQyg/henry-be-229092.jpg?format=1000w"
+    style={{width: '324px', height: '224px'}}/>
+  </figure>
+  <p class="title is-4" style={{textAlign: 'center', padding:'35px'}}>Professional Services</p>
+  <p class="subtitle is-6" style={{textAlign: 'center'}}>Our duties as company secretary range from holding of registered office at our address to the preparation and submission of the Confirmation Statement.</p>
+</article>
+</div>
+</div>

@@ -1,0 +1,27 @@
+
+
+  <div class="columns is-multiline is-mobile" style={{padding: '100px'}}>
+    <div class="column is-half">
+      <h1 style={{fontSize: '25px', fontWeight: 'bold'}}>Why choose us?</h1>
+      <p style={{fontSize: '18px'}}>When appointing a property management company,
+      <br />you want one that stands out.
+      </p>
+      <br/>
+      <button class="button" style={{padding: '20px', backgroundColor: '#7B0100', color: 'white' }}>View our services</button>
+    </div>
+    <div class="column is-one-quarter">
+      <FontAwesomeIcon icon="gem" class='image-icon-home'/>
+      <p style={{fontWeight: 'bold'}}>Experience</p>
+      <br />
+      <br />
+
+      <p>We’ve been successfully managing clients’ properties for over 35 years and although trends come and go, our determination to provide exceptional service stays the same.</p>
+    </div>
+    <div class="column is-one-quarter">
+      <FontAwesomeIcon icon="hourglass-half" class='image-icon-home'/>
+      <p style={{fontWeight: 'bold'}}>High Standards</p>
+      <br />
+      <br />
+      <p>Our service is based on the core principles of high end property management: initiative, organisation, efficiency and professionalism at all times.</p>
+    </div>
+    </div>
