@@ -1,7 +1,7 @@
 import React from 'react';
 // import Authentication from './components/config/authentication.js';
 import Home from './components/Home.js';
-import fire from './components/config/fire.js';
+// import fire from './components/config/fire.js';
 import Header from './components/Header.js';
 import Login from './components/auth/Login.js'
 import Footer from './components/Footer.js';
@@ -81,6 +81,9 @@ class App extends React.Component{
   );
   }
 }
+
+
+
 
 
 
