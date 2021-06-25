@@ -43,7 +43,7 @@ class Header extends React.Component {
             <nav className="navbar is-fixed-top is-transparent nav-bar">
               <div className="container">
                 <div className="navbar-brand">
-                <Link to='/home'>
+                <Link to='/'>
                   <img style={{height: '100px', width: '300px', marginLeft: '-130px'}} src={logo} alt=""/>
                 </Link>
                   <a
@@ -60,7 +60,7 @@ class Header extends React.Component {
                     <div className="navbar-end">
                       <div className="tabs is-right">
                         {/*<Link to='/login'><li>login</li></Link>*/}
-                        <Link to='/home'><li>Home</li></Link>
+                        <Link to='/'><li>Home</li></Link>
                         {/*<Link to='/residentialmanagement'><li>Lettings</li></Link>*/}
                           <Link to='/aboutus'>
                             <li className="is-active">
