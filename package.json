@@ -58,6 +58,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Chaveztk/property-app/issues"
-  },
-  "homepage": "http://localhost:3000/home"
+  }
+
 }
