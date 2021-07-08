@@ -3,7 +3,7 @@ const app = express();
 
 
 const path = require('path');
-const publicPath = path.join(__dirname, '..', 'Property-App/public/');
+const publicPath = path.join(__dirname, '..', 'Property-App/');
 app.use(express.static(publicPath));
 
 
